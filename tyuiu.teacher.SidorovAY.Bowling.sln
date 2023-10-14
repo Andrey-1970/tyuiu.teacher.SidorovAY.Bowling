@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.teacher.SidorovAY.Bowling", "tyuiu.teacher.SidorovAY.Bowling\tyuiu.teacher.SidorovAY.Bowling.csproj", "{63940FF9-B27A-4822-9D5B-F0D825C1FF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.teacher.SidorovAY.Bowling.Tests", "tyuiu.teacher.SidorovAY.Bowling.Tests\tyuiu.teacher.SidorovAY.Bowling.Tests.csproj", "{A06DE208-7792-471D-B416-4B1430F0DBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63940FF9-B27A-4822-9D5B-F0D825C1FF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63940FF9-B27A-4822-9D5B-F0D825C1FF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63940FF9-B27A-4822-9D5B-F0D825C1FF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63940FF9-B27A-4822-9D5B-F0D825C1FF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06DE208-7792-471D-B416-4B1430F0DBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06DE208-7792-471D-B416-4B1430F0DBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06DE208-7792-471D-B416-4B1430F0DBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06DE208-7792-471D-B416-4B1430F0DBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4273C89-97CC-434A-9C42-332613E43CF7}
+	EndGlobalSection
+EndGlobal
